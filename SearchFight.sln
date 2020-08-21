@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchFight.ConsoleApp", "SearchFight\SearchFight.ConsoleApp.csproj", "{D0AEC7F9-381E-4E21-B3B5-B546A936D9D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchFight.ConsoleApp", "SearchFight.ConsoleApp\SearchFight.ConsoleApp.csproj", "{D0AEC7F9-381E-4E21-B3B5-B546A936D9D2}"
 	ProjectSection(ProjectDependencies) = postProject
 		{16DD4676-2EDC-4660-8C17-C372C66FAD70} = {16DD4676-2EDC-4660-8C17-C372C66FAD70}
 		{6BD809F3-7A97-4F3C-838B-778A37AD7687} = {6BD809F3-7A97-4F3C-838B-778A37AD7687}
