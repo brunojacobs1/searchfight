@@ -14,6 +14,7 @@ namespace SearchFight.ConsoleApp
             if (args.Length == 0)
             {
                 Console.WriteLine("Usage: searchfight.exe <search-term-1> <search-term-2> ... <search-term-N>");
+                return;
             }
 
             var request = new SearchFightRequestMessage(args);
